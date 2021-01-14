@@ -1,0 +1,41 @@
+.navbar li{
+    font-family: 'Yusei Magic', sans-serif;
+}
+.buy-btn{
+    background-color: #91AB2A;
+    color: white;
+    
+}
+.banner-heading, .card-heading{
+    font-family: 'Bebas Neue', cursive; font-size: 70px; 
+}
+.penguin-card{
+    border-radius: 10px;
+    border: 0px;
+}
+.penguin-card h1{
+    font-family: 'Bebas Neue', cursive; 
+    font-size: 50px; 
+    color: #FABE4C;
+}
+.penguin-card h2{
+    font-family: 'Bebas Neue', cursive;
+     color: #363958;
+}
+.penguin-card p{
+    font-family: 'Roboto', sans-serif; color: dimgray;
+}
+.card-image{
+    background: #F1F1F1;
+    border-radius: 10px;
+}
+.footer, .footer-text{
+    background-color: dimgray;
+    color: white;
+}
+
+@media (max-width:576px){
+    .product h1{
+        text-align: center;
+    }
+}
